@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifr", "Shifr\Shifr.csproj", "{D59F9BE9-77F0-4091-8FEB-0462992508CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{E2250F29-C823-4772-B8E0-B5F71172897A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{9D52DD64-A01D-4D3A-A9C6-15A8D18871EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59F9BE9-77F0-4091-8FEB-0462992508CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59F9BE9-77F0-4091-8FEB-0462992508CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59F9BE9-77F0-4091-8FEB-0462992508CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59F9BE9-77F0-4091-8FEB-0462992508CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D52DD64-A01D-4D3A-A9C6-15A8D18871EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D52DD64-A01D-4D3A-A9C6-15A8D18871EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D52DD64-A01D-4D3A-A9C6-15A8D18871EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D52DD64-A01D-4D3A-A9C6-15A8D18871EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0352E218-BF57-4B05-BF69-BD83D263A91C}
+	EndGlobalSection
+EndGlobal
